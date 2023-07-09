@@ -17,3 +17,6 @@ We can search product with fuzzy searching
 ## Add Product
 Input amazon ASIN number, then the apps will get the product data and reviews from amazon website and save it into targeted DB
 ![enter image description here](https://github.com/hendrosteven/amazon-scanner-ui/blob/main/get-product-from-amazon-web.png)
+## Detail Product
+Show the product information and reviews
+![enter image description here](https://github.com/hendrosteven/amazon-scanner-ui/blob/main/product-detail-reviews.png)
